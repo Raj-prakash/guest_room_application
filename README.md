@@ -71,7 +71,7 @@ you need to install node_modules (#because it contains more than 2000 files that
     ```
     npm run server
     ```
-    <u>**N.B. you have to install mongodb and configure mongodb database as mentioned in \***[.env-example]*\* file.**</u>
+    <u>**N.B. you have to install mongodb and configure mongodb database as mentioned in \***[.env-example]https://github.com/Raj-prakash/guest_room_application/blob/main/backend/.env*\* file.**</u>
 
 #### Screenshots
 
